@@ -1,7 +1,7 @@
                                                 Time Management
 
 
-OverviewOverview :
+Overview:
 
 The project will help you to organize your tasks with the possibility of deleting or postponing them with the addition of arranging your tasks according to priority or whether you finish them or not.
 
